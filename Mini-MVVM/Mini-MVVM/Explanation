@@ -1,0 +1,2 @@
+The data binding and action binding is too heavy for our demo.
+We use function showGreeting and the closure parament in function greetingDidChange to binding the ViewModel and the View.
